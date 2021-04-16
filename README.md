@@ -8,7 +8,7 @@ Listening feature uses SpeechSynthesis API which is still exprimental so some us
 <hr>
 <strong> <h3>Features</h3></strong>
 1. Story data is on firestore. <br>
-2. Two different Language support (Hindi and English).
+2. Two different Language support (Hindi and English).<br>
 3. Uses SpeechSynthesis for listening. <br>
 4. Word Highlighting.<br>
 5. Uses Animate on Scroll.<br>
