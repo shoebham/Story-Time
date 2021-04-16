@@ -8,12 +8,13 @@ Listening feature uses SpeechSynthesis API which is still exprimental so some us
 <hr>
 <strong> <h3>Features</h3></strong>
 1. Story data is on firestore. <br>
-2. Uses SpeechSynthesis for listening. <br>
-3. Word Highlighting.<br>
-4. Uses Animate on Scroll.<br>
-5. Deployed on Firebase Hosting.<br>
-6. Uses Bootstrap.<br>
-7. Links to respective libraries from where I had to copy code and modify it according to my need is given in  javascript file. 
+2. Two different Language support (Hindi and English).
+3. Uses SpeechSynthesis for listening. <br>
+4. Word Highlighting.<br>
+5. Uses Animate on Scroll.<br>
+6. Deployed on Firebase Hosting.<br>
+7. Uses Bootstrap.<br>
+8. Links to respective libraries from where I had to copy code and modify it according to my need is given in  javascript file. 
 <hr>
 <strong> <h3>BUGS</h3></strong>
 1. Pause play does not work on mobile (This is a issue with speechsynthesis API itself) (https://github.com/mdn/browser-compat-data/issues/4500) <br>
