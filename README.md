@@ -14,7 +14,7 @@ Listening feature uses SpeechSynthesis API which is still exprimental so some us
 5. Uses Animate on Scroll.<br>
 6. Deployed on Firebase Hosting.<br>
 7. Uses Bootstrap.<br>
-8. Links to respective libraries from where I had to copy code and modify it according to my need is given in  javascript file. 
+8. Links to respective libraries from where I had to copy code and modify it according to my need is given in comments  in respective files. 
 <hr>
 <strong> <h3>BUGS</h3></strong>
 1. Pause play does not work on mobile (This is a issue with speechsynthesis API itself) (https://github.com/mdn/browser-compat-data/issues/4500) <br>
