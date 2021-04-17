@@ -77,7 +77,8 @@ function populateStories(e,i)
   {
     var sel = document.getElementById("stories");
     var val = sel.options[sel.selectedIndex].value;
-    window.speechSynthesis.cancel();
+    // window.speechSynthesis.cancel();
+    stop();
     dePopulateAll();
     populate();
     db.collection("Stories").get().then((snapshot)=>
@@ -100,6 +101,8 @@ function populateStories(e,i)
            }
            document.querySelector(".video-container").innerHTML=output;
        });
+    //    console.log(document.querySelector("#language").value);
+       document.querySelector("#language").value="English";
     });
   }
 //----------------------------------------------------------------
@@ -191,10 +194,10 @@ populate();
 function populate()
 {
     // console.log("populate called");
-    
+    var flag=true;
   var synth = window.speechSynthesis;
   var voices = synth.getVoices();
-//   console.log(voices);
+  console.log(voices);
   var voiceSelect = document.querySelector('#voices');
   for(i = 0; i < voices.length ; i++) {
     var option = document.createElement('option');
@@ -203,6 +206,11 @@ function populate()
     if(voices[i].name=="Microsoft David Desktop - English (United States)") {
       option.textContent += ' -- DEFAULT';
       option.selected=true;
+      flag=false;
+    }
+    else if ((voices[i].lang=="en-US"||voices[i].lang=="en_US")&&flag)
+    {
+        option.selected=true;
     }
 
     option.setAttribute('data-lang', voices[i].lang);
