@@ -36,23 +36,27 @@ If there are any other bugs you encounter please open up a issue.
 9. Chevron (scroll to bottom button) https://codepen.io/xonic/pen/KWMaqe
 
 <h3>Resources used for Listen and Watch feature<h4>
-  <h4>Youtube Videos</h4>
-  1. The turtle and rabbit https://www.youtube.com/watch?v=_sslVJS7Gvk
-  2. The Boy who cried wolf https://www.youtube.com/watch?v=zUDYuPL6YLI
-  3. The golden egg https://www.youtube.com/watch?v=E5U6HXBcNEA
-  4. The thirsty crow https://www.youtube.com/watch?v=uwzViw-T0-A
-  
+  <h4>Youtube Videos</h4><ol>
+  <li> The turtle and rabbit https://www.youtube.com/watch?v=_sslVJS7Gvk </li>
+  <li> The Boy who cried wolf https://www.youtube.com/watch?v=zUDYuPL6YLI </li>
+  <li> The golden egg https://www.youtube.com/watch?v=E5U6HXBcNEA </li>
+  <li> The thirsty crow https://www.youtube.com/watch?v=uwzViw-T0-A</li>
+  </ol>
   <h4>English Text</h4>
-  1. The turtle and rabbit http://read.gov/aesop/025.html
-  2. The Boy who cried wolf http://read.gov/aesop/043.html
-  3. The golden egg http://read.gov/aesop/091.html
-  4. The thirsty crow http://read.gov/aesop/012.html
+  <ol>
+  <li>The turtle and rabbit http://read.gov/aesop/025.html  </li>
+  <li>The Boy who cried wolf http://read.gov/aesop/043.html </li>
+  <li>The golden egg http://read.gov/aesop/091.html     </li>
+  <li>The thirsty crow http://read.gov/aesop/012.html</li>
+</ol>
 
  <h4>Hindi Text</h4>
-  1. The turtle and rabbit https://storyrevealers.com/blog/rabbit-and-tortoise-story/
-  2. The Boy who cried wolf https://hindiparenting.firstcry.com/articles/bhaago-bhediya-aaya-bhediya-aaya-kahani-%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A5%8B-%E0%A4%AD%E0%A5%87%E0%A5%9C%E0%A4%BF%E0%A4%AF%E0%A4%BE-%E0%A4%86%E0%A4%AF%E0%A4%BE-%E0%A4%AD%E0%A5%87%E0%A5%9C%E0%A4%BF%E0%A4%AF%E0%A4%BE-%E0%A4%86%E0%A4%AF%E0%A4%BE-%E0%A4%95%E0%A4%B9%E0%A4%BE%E0%A4%A8%E0%A5%80/
-  3. The golden egg https://royalbulletin.in/children-world/golden-fowl-funny-story/cid1997969.htm
-  4. The thirsty crow https://www.thepublic.in/story-kahaniya/kids-stories/hindi-short-story-thirsty-crow
+ <ol>
+  <li>The turtle and rabbit https://storyrevealers.com/blog/rabbit-and-tortoise-story/</li>
+  <li>The Boy who cried wolf https://hindiparenting.firstcry.com/articles/bhaago-bhediya-aaya-bhediya-aaya-kahani-%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A5%8B-%E0%A4%AD%E0%A5%87%E0%A5%9C%E0%A4%BF%E0%A4%AF%E0%A4%BE-%E0%A4%86%E0%A4%AF%E0%A4%BE-%E0%A4%AD%E0%A5%87%E0%A5%9C%E0%A4%BF%E0%A4%AF%E0%A4%BE-%E0%A4%86%E0%A4%AF%E0%A4%BE-%E0%A4%95%E0%A4%B9%E0%A4%BE%E0%A4%A8%E0%A5%80/</li>
+  <li> The golden egg https://royalbulletin.in/children-world/golden-fowl-funny-story/cid1997969.htm</li>
+  <li> The thirsty crow https://www.thepublic.in/story-kahaniya/kids-stories/hindi-short-story-thirsty-crow</li>
+  </ol>
   
  <h2><strong> More stories can be added/removed. These stories were added for demonstration purposes</strong></h2>
  <br>
